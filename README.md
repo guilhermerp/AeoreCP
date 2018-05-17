@@ -1,0 +1,2 @@
+# AeoreCP
+Aeore Control Panel
